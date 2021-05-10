@@ -1,6 +1,12 @@
+
+<h1 align="center">
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/DanielObara/NLW-1.0/raw/master/.github/logo.svg" />
+</h1>
+
 <h1 align="center">
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://blog.rocketseat.com.br/content/images/2020/06/ecoleta.svg" />
 </h1>
+
 <h1 align="center">
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/assets/banner.png" />
 </h1>
@@ -23,9 +29,23 @@
 </p>
 
 
-## 💻 Sobre o projeto
+## 💻 Project
 
-♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
+NLW is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level. Through our method you will learn new tools, learn about new technologies and discover hacks that will boost your career. An online and completely free event that will help you take the next step in your evolution as a dev.
+
+Days
+
+- Day 1: Acelerando sua evolução 01/06 - ✔️
+- Day 2: Olhando para as oportunidades 02/06 - ✔️
+- Day 3: A escolha da Stack 03/06 - ✔️
+- Day 4: Até 2 anos em 2 meses 04/06 - ✔️
+- Day 5: Milha extra 05/06 - ✔️
+
+♻️ Ecoleta is a project developed based on international environment week. That aims to connect people to companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
+
+<h1 align="center">
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/DanielObara/NLW-1.0/raw/master/.github/capa.svg" />
+</h1>
 
 As empresas ou entidades poderão se cadastrar na plataforma web enviando:
 - uma imagem do ponto de coleta;
