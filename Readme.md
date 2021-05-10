@@ -8,7 +8,7 @@
 </h1>
 
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/assets/banner.png" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/assets/banner.png" width="400px" />
 </h1>
 
 <h4 align="center"> 
@@ -35,11 +35,11 @@ NLW is a practical week with lots of code, challenges, networking and a single o
 
 Days
 
-- Day 1: Acelerando sua evolução 01/06 - ✔️
-- Day 2: Olhando para as oportunidades 02/06 - ✔️
-- Day 3: A escolha da Stack 03/06 - ✔️
-- Day 4: Até 2 anos em 2 meses 04/06 - ✔️
-- Day 5: Milha extra 05/06 - ✔️
+- Day 1: Acelerando sua evolução 01/06/20 - ✔️
+- Day 2: Olhando para as oportunidades 02/06/20 - ✔️
+- Day 3: A escolha da Stack 03/06/20 - ✔️
+- Day 4: Até 2 anos em 2 meses 04/06/20 - ✔️
+- Day 5: Milha extra 05/06/20 - ✔️
 
 ♻️ Ecoleta is a project developed based on international environment week. That aims to connect people to companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
 
@@ -64,20 +64,29 @@ Companies or entities may register on the web platform by sending:
 
 The application layout is available on Figma:
 
-<a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
+<a href="https://www.figma.com/file/7qPPx2JFWSOOUrscquS7yf/Ecoleta-Discovery?node-id=136%3A546">
   <img alt="Made by Lucas Gonçalves" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
 
-### Web
+## Web Application
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/assets/banner.png" width="400px">
-
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/assets/banner.png" width="400px">
-
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/assets/banner.png" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/assets/banner2.png" width="500px">
 </p>
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/assets/banner3.png" width="400px">
+</p>
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/assets/banner4.png" width="500px">
+</p>
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/assets/banner5.png" width="500px">
+</p>
+
 
 
 ## 📝 License
